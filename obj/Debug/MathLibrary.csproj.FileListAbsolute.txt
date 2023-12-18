@@ -1,0 +1,6 @@
+C:\Users\PJAYACHANDRAN\source\repos\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\PJAYACHANDRAN\source\repos\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\PJAYACHANDRAN\source\repos\MathLibrary\obj\Debug\MathLibrary.csproj.AssemblyReference.cache
+C:\Users\PJAYACHANDRAN\source\repos\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PJAYACHANDRAN\source\repos\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\PJAYACHANDRAN\source\repos\MathLibrary\obj\Debug\MathLibrary.pdb
